@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Use this boilerplate to example for other next projects
+
+## this project contains:
+
+styled-component
+storybook
+plotfile component generator
+husky
+jest
+
+## exemple code: npx create-next-app --example https://github.com/joaootmz/boilerplate-next-routes
+
 First, run the development server:
 
 ```bash
